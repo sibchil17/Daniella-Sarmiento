@@ -1,0 +1,27 @@
+
+.about{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap:5px;
+	padding: 5px;
+	color:cyan;
+	
+}
+.name{
+	grid-row: ;
+	grid-column: ;
+	padding:15px;
+	color:#5F7EFC;
+}
+.wants{
+	color:#CED5F0
+	grid-row: ;
+	grid-column:;
+}
+.description {
+	grid-rows:;
+	grid-column:;
+	color:#4E9AC5
+}
+
+
